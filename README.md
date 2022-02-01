@@ -15,6 +15,8 @@ These patches contains the information to remove contents from your own PS4 back
 | EP1003-CUSA05486_00-SKYRIMHDFULLGAME 	| 31.1 GB               | 12.4 GB                   |  2.8 GB                  	|  2.8 GB                      	| 19 GB
 | EP4001-CUSA12747_00-DIRTRALLY2EU0001 	| 26.5 GB               |  51.0 GB                  |  7.6 GB                 	| 51.0 GB                     	| 19 GB
 | EP2037-CUSA25234_00-DKALLIANCE01EURO 	| 19.7 GB               | 1.2 GB                   	| 23.0 GB                  	| 23.0 GB                      	| 18 GB
+| UP1001-CUSA16990_00-MAFIATWOREMASTER 	|  44.6 GB              |  9.0 GB                   |  29.6 GB                 	| 6.2 GB                     	|  17.8  GB
+| UP1001-CUSA18097_00-MAFIAONEREMASTER 	|  36.2 GB              |  7.1 GB                   |  24.4 GB                 	| 6.1 GB                     	|  12.8  GB
 | EP9000-CUSA12982_00-MEDIEVILHD000001 	| 20 GB               	| 8.0 GB                  	| 16 GB                 	| 16 GB                     	| 12 GB
 | UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	| 10 GB
 | EP2165-CUSA15639_00-LOF2GAMEEUXXXXXX 	| 11.7 GB               | 0.5 GB                    | 11.4 GB                  	| 11.4 GB                      	| 10 GB
@@ -32,6 +34,7 @@ These patches contains the information to remove contents from your own PS4 back
 | EP4389-CUSA04462_00-ELEXRPGPBNGEU001 	| 22.8 GB               | 18.6 GB                   | 4.9 GB                  	| 4.9 GB                      	|  4 GB
 | EP2028-CUSA03144_00-WASTELAND2GTYPS4 	| 4.8 GB                | 0.6 GB                    | 2.0 GB                  	| 2.0 GB                      	|  4 GB
 | EP0001-CUSA00462_00-FC4GAMEPS4000001 	|  23  GB               |  --- GB                   |  19  GB                 	| --- GB                     	|  4 GB
+| EP0001-CUSA04893_00-ACLEGACYHD000000 	|  39.1 GB              |  --- GB                   |  35.3 GB                 	| --- GB                     	|  3.8  GB
 | UP9000-CUSA17722_00-MARVELSSMMORALES 	|  40.3 GB              |  10.7 GB                  |  36.9 GB                 	| 10.7 GB                     	|  3.4 GB
 | EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 37.0 GB                   | 0.1 GB                  	|  0.1 GB                      	|   3 GB
 | EP0006-CUSA15089_00-MAVERICK00000000 	|  19.0 GB              |  1.9 GB                   |  16.8 GB                 	|  1.6 GB                     	|  2.5 GB
@@ -50,7 +53,28 @@ These patches contains the information to remove contents from your own PS4 back
 | UP0001-CUSA01024_00-0000111122223333 	|  0.5 GB               |  0.5 GB                   |  0.2 GB                 	| 0.5 GB                     	|  0.5 GB
 | UP1001-CUSA16767_00-WWEBATTLEGROUNDS 	|  6.0 GB               |  2.4 GB                   |  5.6 GB                 	| 2.4 GB                     	|  0.4 GB
 | EP4356-CUSA18194_00-RIDE4FULLGAME000 	|  14.3 GB              |  7.1 GB                   |  13.9 GB                 	| 7.1 GB                     	|  0.4 GB
+| UP2456-CUSA06840_00-STARDEW00000SIEA 	|  0.16 GB              |  0.06 GB                   |  0.3 GB                 	| 0.3 GB                     	|  0.1  GB
 | UP1091-CUSA27205_00-JASBMALLBRAWL000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP0002-CUSA13801_00-SEKIROGAME000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP0082-CUSA09244_00-NTPKG00000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP0082-CUSA24103_00-DXM0000000000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP9000-CUSA03173_00-BLOODBORNE0000EU 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP9000-CUSA10249_00-THELASTOFUSPART2 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| HP5035-CUSA15883_00-0000000000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0001-CUSA18522_00-GAME000000000000	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0002-CUSA17922_00-TH12RTHEGAME0001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0031-CUSA12059_00-NEPTUNIA2D000001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP9000-CUSA07408_00-00000000GODOFWAR 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP0895-CUSA15452_00-CROSSCODEPLAYSTA 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP4399-CUSA25807_00-2857473382458244 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP4907-CUSA27022_00-ALWASLEGACY00001 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP9000-CUSA10237_00-HRZCE00000000000	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP1003-CUSA24593_00-QKRMST0000000000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| EP3746-CUSA15250_00-TFSHVCDRPS4EU084 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+| UP9000-CUSA00552_00-THELASTOFUS00000 	|  --- GB               |  --- GB                   |  --- GB                 	| --- GB                     	|  --  GB
+
+
+
 
 
 ## File structure
